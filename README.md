@@ -11,8 +11,8 @@
 - 🛠 Skilled in tools like **Playwright, Appium, Selenium, RestAssured, Postman**, and **TestNG**, with experience in **CI/CD pipeline integration** and **cross-platform testing**.
 
 ## 📫 Reach Me At
-- **Email:** [your_email@example.com](mailto:your_email@example.com)
-- **LinkedIn:** [linkedin.com/in/aadarshjha](https://linkedin.com/in/aadarshjha)
+- **Email:** [aadarshjhaofficials@gmail.com](mailto:aadarshjhaofficials@gmail.com)
+- **LinkedIn:** [linkedin.com/in/aadarshjha21](https://www.linkedin.com/in/aadarshjha21/)
 - **GitHub:** [github.com/Aadarsh-Jha-1](https://github.com/Aadarsh-Jha-1)
 
 ## ⚡ Fun Fact
